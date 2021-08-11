@@ -23,7 +23,7 @@ import:   https://github.com/LiaTemplates/AVR8js/blob/main/README.md
 
 # 01 KickOff-Light
 
-
+[qr-code](https://LiaScript.github.io/course/?https://github.com/LiaPlayground/CrossLabs/blob/main/01_KickOff-Light.md)
 
 ## Vergangenheit (Hardware)
 
