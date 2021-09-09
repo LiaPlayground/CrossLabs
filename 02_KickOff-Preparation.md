@@ -3,7 +3,7 @@ author:   André Dietrich
 
 email:    Andre.Dietrich@informatik.tu-freiberg.de
 
-version:  0.0.1
+version:  0.0.2
 
 language: de
 
@@ -142,7 +142,14 @@ void loop() {
 
 ### Remote
 
-Todo Chemie
+**Maschinenbau**
+
+![printer](pic/printer1.jpg)
+![printer](pic/printer2.jpg)
+![printer](pic/printer3.jpg)
+![printer](pic/printer4.jpg)
+![printer](pic/printer5.jpg)
+![printer](pic/printer6.jpg)
 
 ## Ausblick
 
