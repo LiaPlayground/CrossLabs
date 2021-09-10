@@ -3,13 +3,15 @@ author:   André Dietrich
 
 email:    Andre.Dietrich@informatik.tu-freiberg.de
 
-version:  0.0.2
+version:  0.0.4
 
 language: de
 
 date:     10.10. 2021
 
 narrator: Deutsch Female
+
+mode: Presentation
 
 comment:  Präsentation zum Vorab-KickOff CrossLabs-Meeting in Freiberg.
 
@@ -24,6 +26,18 @@ import:   https://github.com/LiaTemplates/AVR8js/blob/main/README.md
 # 02 KickOff-Preparation
 
 [qr-code](https://LiaScript.github.io/course/?https://github.com/LiaPlayground/CrossLabs/blob/main/02_KickOff-Preparation.md)
+
+
+                           --{{0}}--
+Herzlich Willkommen zum ersten inoffiziellen Kick-Off vorab Meeting.
+
+
+                  --{{1 UK English Female}}--
+Welcome to the first unofficial kick-off advance meeting.
+
+
+                  --{{2 Ukrainian Female}}--
+Ласкаво просимо на першу неофіційну заздалегідь зустріч.
 
 
 ## Agenda
@@ -142,7 +156,14 @@ void loop() {
 
 ### Remote
 
-**Maschinenbau**
+**Chemie:** Rektifikation
+
+![Rektifikation 1](pic/chemie1.jpg)
+![Rektifikation 2](pic/chemie2.jpg)
+![Rektifikation 3](pic/chemie3.jpg)
+
+
+**Maschinenbau:** 3D-Druck
 
 ![printer](pic/printer1.jpg)
 ![printer](pic/printer2.jpg)
