@@ -3,7 +3,7 @@ author:   André Dietrich
 
 email:    Andre.Dietrich@informatik.tu-freiberg.de
 
-version:  0.0.4
+version:  0.0.5
 
 language: de
 
@@ -40,6 +40,14 @@ Welcome to the first unofficial kick-off advance meeting.
 Ласкаво просимо на першу неофіційну заздалегідь зустріч.
 
 
+Kontakt:
+
+| Name           | email                                                                                                  |
+| -------------- | ------------------------------------------------------------------------------------------------------ |
+| Sebastian Zug  | <a href="mailto:sebastian.zug@informatik.tu-freiberg.de">sebastian.zug@informatik.tu-freiberg.de</a>   |
+| Ines Aubel     | <a href="mailto:ines.aubel@chemie.tu-freiberg.de">ines.aubelg@chemie.tu-freiberg.de</a>                |
+| André Dietrich | <a href="mailto:andre.dietrich@informatik.tu-freiberg.de">andre.dietrich@informatik.tu-freiberg.de</a> |
+
 ## Agenda
 
 
@@ -50,10 +58,10 @@ Welcome to the first unofficial kick-off advance meeting.
 
   | Zeit          | Institution |
   | ------------- | ----------- |
-  | 09:05 - 09:20 | Freiberg    |
-  | 09:20 - 09:35 | Dortmund    |
-  | 09:35 - 09:50 | Ilmenau     |
-  | 09:50 - 10:05 | Hamburg     |
+  | 09:10 - 09:25 | Freiberg    |
+  | 09:25 - 09:40 | Dortmund    |
+  | 09:40 - 09:55 | Ilmenau     |
+  | 09:55 - 10:19 | Hamburg     |
 
 * __10:05 - 10:35__
 
