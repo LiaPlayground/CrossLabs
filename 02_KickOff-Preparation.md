@@ -61,7 +61,7 @@ Kontakt:
   | 09:10 - 09:25 | Freiberg    |
   | 09:25 - 09:40 | Dortmund    |
   | 09:40 - 09:55 | Ilmenau     |
-  | 09:55 - 10:19 | Hamburg     |
+  | 09:55 - 10:19 | Elmshorn    |
 
 * __10:05 - 10:35__
 
